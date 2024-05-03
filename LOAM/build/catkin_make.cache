@@ -1,0 +1,2 @@
+loam_velodyne
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/ethan/Coding/loam_HSU/LOAM/devel -DCMAKE_INSTALL_PREFIX=/home/ethan/Coding/loam_HSU/LOAM/install -G Unix Makefiles
